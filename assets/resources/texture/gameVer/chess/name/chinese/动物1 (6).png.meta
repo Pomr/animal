@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0f419c5d-4148-4a70-a58c-241b482ad8a3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "动物1 (6)": {
+      "ver": "1.0.3",
+      "uuid": "869b1eaa-8982-4028-a169-4aabfc5799c1",
+      "rawTextureUuid": "0f419c5d-4148-4a70-a58c-241b482ad8a3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 102,
+      "height": 57,
+      "rawWidth": 106,
+      "rawHeight": 61,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

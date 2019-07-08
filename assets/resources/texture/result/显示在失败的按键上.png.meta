@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2b98b198-5379-4cbe-962c-c56ec0062495",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "显示在失败的按键上": {
+      "ver": "1.0.3",
+      "uuid": "f83faea1-7872-46fe-9901-bb3507581581",
+      "rawTextureUuid": "2b98b198-5379-4cbe-962c-c56ec0062495",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 380,
+      "height": 79,
+      "rawWidth": 380,
+      "rawHeight": 83,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

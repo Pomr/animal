@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "1d5b74d4-0790-4957-8eca-bb76b337deee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "退出游戏的按键 (3)": {
+      "ver": "1.0.3",
+      "uuid": "6fd52b7f-123e-4e84-abb8-884b75e767ed",
+      "rawTextureUuid": "1d5b74d4-0790-4957-8eca-bb76b337deee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 2,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 147,
+      "height": 77,
+      "rawWidth": 147,
+      "rawHeight": 81,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

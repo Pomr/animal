@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "606a8c68-0fa1-4b43-a947-de847d08a1eb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "斗兽棋143784": {
+      "ver": "1.0.3",
+      "uuid": "b7786df3-fb95-4149-b21e-84177b96328b",
+      "rawTextureUuid": "606a8c68-0fa1-4b43-a947-de847d08a1eb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 1035,
+      "height": 289,
+      "rawWidth": 1037,
+      "rawHeight": 289,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
